@@ -130,3 +130,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Kube related file
+kubeconfig
+
+# IDE related file
+.idea
